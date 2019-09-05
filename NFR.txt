@@ -545,7 +545,7 @@
 	Roger & Me	1989	2013
 	Roman Holiday	1953	1999
 	Rose Hobart	1936	2001		Short
-	Rosemary's Baby	1968	2014	Rental
+*	Rosemary's Baby	1968	2014	Rental
 	Ruggles of Red Gap	1935	2014
 *	Rushmore	1998	2016
 	Sabrina	1954	2002
