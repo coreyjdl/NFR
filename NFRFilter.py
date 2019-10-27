@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 from random import choice
 
 with open("NFR.txt") as file:
