@@ -200,7 +200,7 @@
 	A Fool There Was	1915	2015
 	Foolish Wives	1922	2008
 	Footlight Parade	1933	1992
-	Forbidden Planet	1956	2013	Rental
+*	Forbidden Planet	1956	2013	Rental
 	Force of Evil	1948	1994
 	The Forgotten Frontier	1931	1996	YouTube
 *	Forrest Gump	1994	2011
