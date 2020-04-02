@@ -335,7 +335,7 @@
 	Knute Rockne, All American	1940	1997
 *	Koyaanisqatsi	1983	2000
 *	L.A. Confidential	1997	2015
-	La Bamba	1987	2017
+*	La Bamba	1987	2017
 	The Lady Eve	1941	1994
 	Lady Helen's Escapade	1909	2004
 	Lady Windermere's Fan	1925	2002
