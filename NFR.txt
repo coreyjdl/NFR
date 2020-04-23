@@ -748,3 +748,28 @@
 *	The Shining	1980	2018
 	Smoke Signals	1998	2018
 	Something Good -- Negro Kiss	1898	2018
+	Amadeus	1984
+	Becky Sharp	1935
+	Before Stonewall	1984
+	Body and Soul	1925
+	Boys Don't Cry	1999
+	Clerks	1994
+	Coal Miner's Daughter	1980
+	Emigrants Landing at Ellis Island	1903
+	Employees Entrance	1933
+	Fog of War	2003
+	Gaslight	1944
+	George Washington Carver at Tuskegee Institute	1937
+	Girlfriends	1978
+	I Am Somebody	1970
+	The Last Waltz	1978
+	My Name Is Oona	1969
+	A New Leaf	1971
+	Old Yeller	1957
+	The Phenix City Story	1955
+	Platoon	1986
+*	Purple Rain	1984
+	Real Women Have Curves	2002
+	She's Gotta Have It	1986
+	Sleeping Beauty	1959
+	Zoot Suit	1981
