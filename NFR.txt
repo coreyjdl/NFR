@@ -378,7 +378,7 @@
 	Mabel's Blunder	1914	2009		Short
 *	Magical Maestro	1952	1993		Short
 	The Magnificent Ambersons	1942	1991
-	The Magnificent Seven	1961	2013
+*	The Magnificent Seven	1961	2013
 	Make Way for Tomorrow	1937	2010
 	The Making of an American	1920	2005		Short
 	Malcolm X	1992	2010	Rental
