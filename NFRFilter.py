@@ -1,4 +1,5 @@
-#!/usr/local/bin/python3
+#!/usr/bin/env python3
+
 from random import choice
 
 with open("NFR.txt") as file:
