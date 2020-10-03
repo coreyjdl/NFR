@@ -294,7 +294,7 @@
 	The Immigrant	1917	1998
 	In a Lonely Place	1950	2007
 *	In Cold Blood	1967	2008
-	In the Heat of the Night	1967	2002
+*	In the Heat of the Night	1967	2002
 	In the Land of the Head Hunters	1914	1999
 	In the Street	1948	2006
 	The Incredible Shrinking Man	1957	2009
