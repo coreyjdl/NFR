@@ -140,7 +140,7 @@
 	Detour	1945	1992
 *	Dickson Experimental Sound Film	1894-1895	2003
 *	Die Hard	1988	2017
-	Dirty Harry	1971	2012	Rental
+*	Dirty Harry	1971	2012	Rental
 	Disneyland Dream	1956	2008
 	Do the Right Thing	1989	1999	Rental
 	The Docks of New York	1928	1999
