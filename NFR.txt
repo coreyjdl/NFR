@@ -146,7 +146,7 @@
 	The Docks of New York	1928	1999
 	Dodsworth	1936	1990
 *	Dog Day Afternoon	1975	2009
-	Dog Star Man	1964	1992	YouTube
+*	Dog Star Man	1964	1992	YouTube
 	Don't Look Back	1967	1998
 	Double Indemnity	1944	1992
 	Down Argentine Way	1940	2014
@@ -773,3 +773,27 @@
 	She's Gotta Have It	1986
 	Sleeping Beauty	1959
 	Zoot Suit	1981
+	The Battle of the Century	1927	
+*	The Blues Brothers	1980	
+	Bread	1918	2020
+	Buena Vista Social Club	1999	
+	Cabin in the Sky	1943	
+*	A Clockwork Orange	1971	
+*	The Dark Knight	2008	
+	The Devil Never Sleeps	1994	
+	Freedom Riders	2010	
+	Grease	1978	
+	The Ground	1993-2001	
+	The Hurt Locker	2008	
+	Illusions	1982	
+	The Joy Luck Club	1993	
+	Kid Auto Races at Venice	1914	
+	Lilies of the Field	1963	
+	Losing Ground	1982	
+	The Man with the Golden Arm	1955	
+	Mauna Kea: Temple Under Siege	2006	
+	Outrage	1950	
+*	Shrek	2001	
+	Suspense	1913	
+*	Sweet Sweetback’s Baadasssss Song	1971	
+	Wattstax	1973	
