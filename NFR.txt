@@ -23,7 +23,7 @@
 *	Allures	1961	2011		Short
 	America, America	1963	2001
 	American Graffiti	1973	1995	Rental
-	An American in Paris	1951	1993	Rental
+*	An American in Paris	1951	1993	
 	Anatomy of a Murder	1959	2012	Rental
 *	Annie Hall	1977	1992	Netflix
 	Antonia: A Portrait of the Woman	1974	2003
@@ -318,7 +318,7 @@
 	The Jazz Singer	1927	1996
 	Jeffries-Johnson World's Championship Boxing Contest	1910	2005
 	Jezebel	1938	2009
-	John Henry and the Inky-Poo	1946	2015		Short
+*	John Henry and the Inky-Poo	1946	2015		Short
 	Johnny Guitar	1954	2008
 	Judgment at Nuremberg	1961	2013
 *	The Jungle	1967	2009		Short
@@ -748,53 +748,53 @@
 *	The Shining	1980	2018
 	Smoke Signals	1998	2018
 	Something Good -- Negro Kiss	1898	2018
-	Amadeus	1984
-	Becky Sharp	1935
-	Before Stonewall	1984
-	Body and Soul	1925
-	Boys Don't Cry	1999
-	Clerks	1994
-	Coal Miner's Daughter	1980
-	Emigrants Landing at Ellis Island	1903
-	Employees Entrance	1933
-	Fog of War	2003
-	Gaslight	1944
-	George Washington Carver at Tuskegee Institute	1937
-	Girlfriends	1978
-	I Am Somebody	1970
-	The Last Waltz	1978
-	My Name Is Oona	1969
-	A New Leaf	1971
-	Old Yeller	1957
-	The Phenix City Story	1955
-	Platoon	1986
-*	Purple Rain	1984
-	Real Women Have Curves	2002
-	She's Gotta Have It	1986
-	Sleeping Beauty	1959
-	Zoot Suit	1981
-	The Battle of the Century	1927	
-*	The Blues Brothers	1980	
+	Amadeus	1984	2019
+	Becky Sharp	1935	2019
+	Before Stonewall	1984	2019
+	Body and Soul	1925	2019
+	Boys Don't Cry	1999	2019
+	Clerks	1994	2019
+	Coal Miner's Daughter	1980	2019
+	Emigrants Landing at Ellis Island	1903	2019
+	Employees Entrance	1933	2019
+	Fog of War	2003	2019
+	Gaslight	1944	2019
+	George Washington Carver at Tuskegee Institute	1937	2019
+	Girlfriends	1978	2019
+	I Am Somebody	1970	2019
+	The Last Waltz	1978	2019
+	My Name Is Oona	1969	2019
+	A New Leaf	1971	2019
+	Old Yeller	1957	2019
+	The Phenix City Story	1955	2019
+	Platoon	1986	2019
+*	Purple Rain	1984	2019
+	Real Women Have Curves	2002	2019
+	She's Gotta Have It	1986	2019
+	Sleeping Beauty	1959	2019
+	Zoot Suit	1981	2019
+	The Battle of the Century	1927	2020	
+*	The Blues Brothers	1980	2020
 	Bread	1918	2020
-	Buena Vista Social Club	1999	
-	Cabin in the Sky	1943	
-*	A Clockwork Orange	1971	
-*	The Dark Knight	2008	
-	The Devil Never Sleeps	1994	
-	Freedom Riders	2010	
-	Grease	1978	
-	The Ground	1993-2001	
-	The Hurt Locker	2008	
-	Illusions	1982	
-	The Joy Luck Club	1993	
-	Kid Auto Races at Venice	1914	
-	Lilies of the Field	1963	
-	Losing Ground	1982	
-	The Man with the Golden Arm	1955	
-	Mauna Kea: Temple Under Siege	2006	
-	Outrage	1950	
-*	Shrek	2001	
-	Suspense	1913	
-*	Sweet Sweetback’s Baadasssss Song	1971	
-	Wattstax	1973	
-	With Car and Camera Around the World	1929
+	Buena Vista Social Club	1999	2020	
+	Cabin in the Sky	1943	2020
+*	A Clockwork Orange	1971	2020
+*	The Dark Knight	2008	2020
+	The Devil Never Sleeps	1994	2020	
+	Freedom Riders	2010	2020
+	Grease	1978	2020
+	The Ground	1993-2001	2020	
+	The Hurt Locker	2008	2020
+	Illusions	1982	2020
+	The Joy Luck Club	1993	2020	
+	Kid Auto Races at Venice	1914	2020	
+	Lilies of the Field	1963	2020
+	Losing Ground	1982	2020
+	The Man with the Golden Arm	1955	2020	
+	Mauna Kea: Temple Under Siege	2006	2020
+	Outrage	1950	2020
+*	Shrek	2001	2020
+	Suspense	1913	2020	
+*	Sweet Sweetback’s Baadasssss Song	1971	2020	
+	Wattstax	1973	2020
+	With Car and Camera Around the World	1929	2020
