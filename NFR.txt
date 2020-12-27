@@ -2,7 +2,7 @@
 *	4 Little Girls	1997	2017
 *	The 7th Voyage of Sinbad	1958	2008	Rental	Feature
 *	12 Angry Men	1957	2007
-	13 Lakes	2004	2014
+*	13 Lakes	2004	2014
 	20,000 Leagues Under the Sea	1916	2016
 	42nd Street	1933	1998	Rental	Feature
 *	2001: A Space Odyssey	1968	1991
@@ -111,7 +111,7 @@
 *	Cool Hand Luke	1967	2005
 	The Cool World	1963	1994
 *	Cops	1922	1997
-	Corbett-Fitzsimmons Title Fight	1897	2012
+*	Corbett-Fitzsimmons Title Fight	1897	2012
 	A Corner in Wheat	1909	1994
 	The Court Jester	1956	2004
 	Crisis: Behind a Presidential Commitment	1963	2011
@@ -256,7 +256,7 @@
 *	H2O	1929	2005		Short
 	Hail the Conquering Hero	1944	2015
 	Hallelujah!	1929	2008
-	Halloween	1978	2006	Rental
+*	Halloween	1978	2006	Rental
 	Hands Up!	1926	2005
 	Harlan County, U.S.A.	1976	1990
 	Harold and Maude	1972	1997
@@ -525,7 +525,7 @@
 	A Raisin in the Sun	1961	2005
 	Rear Window	1954	1997
 	Rebel Without a Cause	1955	1990
-	The Red Book	1994	2009		Short
+*	The Red Book	1994	2009		Short
 	Red Dust	1932	2006
 	Red River	1948	1990
 	Regeneration	1915	2000
@@ -747,7 +747,7 @@
 	Rebecca	1940	2018
 *	The Shining	1980	2018
 	Smoke Signals	1998	2018
-	Something Good -- Negro Kiss	1898	2018
+*	Something Good -- Negro Kiss	1898	2018
 	Amadeus	1984	2019
 	Becky Sharp	1935	2019
 	Before Stonewall	1984	2019
@@ -755,7 +755,7 @@
 	Boys Don't Cry	1999	2019
 	Clerks	1994	2019
 	Coal Miner's Daughter	1980	2019
-	Emigrants Landing at Ellis Island	1903	2019
+*	Emigrants Landing at Ellis Island	1903	2019
 	Employees Entrance	1933	2019
 	Fog of War	2003	2019
 	Gaslight	1944	2019
