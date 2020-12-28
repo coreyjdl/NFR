@@ -753,7 +753,7 @@
 	Before Stonewall	1984	2019
 	Body and Soul	1925	2019
 	Boys Don't Cry	1999	2019
-	Clerks	1994	2019
+*	Clerks	1994	2019
 	Coal Miner's Daughter	1980	2019
 *	Emigrants Landing at Ellis Island	1903	2019
 	Employees Entrance	1933	2019
