@@ -258,7 +258,7 @@
 	Hallelujah!	1929	2008
 *	Halloween	1978	2006
 	Hands Up!	1926	2005
-	Harlan County, U.S.A.	1976	1990
+*	Harlan County, U.S.A.	1976	1990
 	Harold and Maude	1972	1997
 	He Who Gets Slapped	1924	2017
 	The Heiress	1949	1996
@@ -348,7 +348,7 @@
 	Laura	1944	1999
 	Lawrence of Arabia	1962	1991
 *	The Lead Shoes	1949	2009
-	A League of Their Own	1992	2012
+*	A League of Their Own	1992	2012
 	The Learning Tree	1969	1989
 	Let There Be Light	1946	2010
 	Letter from an Unknown Woman	1948	1992
@@ -647,7 +647,7 @@
 	Think of Me First as a Person	1960-1975	2006
 	This Is Cinerama	1952	2002
 *	This Is Spinal Tap	1984	2002
-	The Three Little Pigs	1933	2007
+*	The Three Little Pigs	1933	2007
 	Time and Dreams	1976	2017
 	A Time for Burning	1966	2005
 	A Time Out of War	1954	2006
@@ -675,7 +675,7 @@
 	Tulips Shall Grow	1942	1997
 	Twelve O'Clock High	1949	1998
 	Twentieth Century	1934	2011
-	Two-Color Kodachrome Test Shots No. III	1922	2012
+*	Two-Color Kodachrome Test Shots No. III	1922	2012
 	Two-Lane Blacktop	1971	2012
 	Uncle Tom's Cabin	1914	2012
 	Under Western Stars	1938	2009
