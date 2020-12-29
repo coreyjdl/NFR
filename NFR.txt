@@ -31,7 +31,7 @@
 *	Apocalypse Now	1979	2000
 	Applause	1929	2006
 	The Asphalt Jungle	1950	2008
-	Atlantic City	1980	2003
+*	Atlantic City	1980	2003
 	The Atomic Cafe	1982	2016
 	The Augustas	1930s-1950s	2012
 	The Awful Truth	1937	1996
@@ -470,7 +470,7 @@
 	Only Angels Have Wings	1939	2017
 	Our Daily Bread	1934	2015
 	Our Day	1938	2007
-	Our Lady of the Sphere	1969	2010
+*	Our Lady of the Sphere	1969	2010
 	Out of the Past	1947	1991
 	The Outlaw Josey Wales	1976	1996
 	The Ox-Bow Incident	1943	1998
@@ -517,7 +517,7 @@
 *	Pulp Fiction	1994	2013
 	Punch Drunks	1934	2002
 	Pups Is Pups	1930	2004
-	Putney Swope	1969	2016
+*	Putney Swope	1969	2016
 *	Quasi at the Quackadero	1975	2009
 	The Quiet Man	1952	2013
 	Raging Bull	1980	1990
