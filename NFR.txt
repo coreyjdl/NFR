@@ -18,7 +18,7 @@
 	All Quiet on the Western Front	1930	1990
 	All That Heaven Allows	1955	1995
 	All That Jazz	1979	2001
-	All the King's Men	1949	2001	Prime
+	All the King's Men	1949	2001
 *	All the President's Men	1976	2010
 *	Allures	1961	2011
 	America, America	1963	2001
@@ -27,7 +27,7 @@
 	Anatomy of a Murder	1959	2012
 *	Annie Hall	1977	1992
 	Antonia: A Portrait of the Woman	1974	2003
-	The Apartment	1960	1994	Prime
+	The Apartment	1960	1994
 *	Apocalypse Now	1979	2000
 	Applause	1929	2006
 	The Asphalt Jungle	1950	2008
@@ -620,7 +620,7 @@
 	Sunset Boulevard	1950	1989
 	Superman	1978	2017
 	Suzanne, Suzanne	1982	2016
-	Sweet Smell of Success	1957	1993	TubiTv
+	Sweet Smell of Success	1957	1993
 	Swing Time	1936	2004
 	Symbiopsychotaxiplasm: Take One	1968	2015
 	The T.A.M.I. Show	1964	2006
@@ -769,14 +769,14 @@
 	The Phenix City Story	1955	2019
 *	Platoon	1986	2019
 *	Purple Rain	1984	2019
-	Real Women Have Curves	2002	2019
+*	Real Women Have Curves	2002	2019
 	She's Gotta Have It	1986	2019
 	Sleeping Beauty	1959	2019
 	Zoot Suit	1981	2019
 	The Battle of the Century	1927	2020
 *	The Blues Brothers	1980	2020
 	Bread	1918	2020
-	Buena Vista Social Club	1999	2020
+*	Vista Social Club	1999	2020
 	Cabin in the Sky	1943	2020
 *	A Clockwork Orange	1971	2020
 *	The Dark Knight	2008	2020
