@@ -340,7 +340,7 @@
 	Lady Helen's Escapade	1909	2004
 	Lady Windermere's Fan	1925	2002
 	Lambchops	1929	1999
-	The Land Beyond the Sunset	1912	2000
+*	The Land Beyond the Sunset	1912	2000
 	Lassie Come Home	1943	1993
 	The Last Command	1928	2006
 	The Last of the Mohicans	1920	1995
@@ -657,7 +657,7 @@
 	To Be or Not to Be	1942	1996
 	To Fly!	1976	1995
 *	To Kill a Mockingbird	1962	1995
-	To Sleep with Anger	1990	2017
+*	To Sleep with Anger	1990	2017
 	Tol'able David	1921	2007
 	Tom, Tom, the Piper's Son	1969-1971	2007
 *	Tootsie	1982	1998
@@ -767,7 +767,7 @@
 	A New Leaf	1971	2019
 	Old Yeller	1957	2019
 	The Phenix City Story	1955	2019
-	Platoon	1986	2019
+*	Platoon	1986	2019
 *	Purple Rain	1984	2019
 	Real Women Have Curves	2002	2019
 	She's Gotta Have It	1986	2019
@@ -787,7 +787,7 @@
 *	The Hurt Locker	2008	2020
 *	Illusions	1982	2020
 	The Joy Luck Club	1993	2020
-	Kid Auto Races at Venice	1914	2020
+*	Kid Auto Races at Venice	1914	2020
 	Lilies of the Field	1963	2020
 	Losing Ground	1982	2020
 	The Man with the Golden Arm	1955	2020
