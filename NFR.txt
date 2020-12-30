@@ -91,7 +91,7 @@
 	Casablanca	1942	1989
 	Castro Street (The Coming of Consciousness)	1966	1992
 	Cat People	1942	1993
-	Chan Is Missing	1982	1995
+*	Chan Is Missing	1982	1995
 *	The Cheat	1915	1993
 	The Chechahcos	1924	2003
 *	Chinatown	1974	1991
@@ -112,7 +112,7 @@
 	The Cool World	1963	1994
 *	Cops	1922	1997
 *	Corbett-Fitzsimmons Title Fight	1897	2012
-	A Corner in Wheat	1909	1994
+*	A Corner in Wheat	1909	1994
 	The Court Jester	1956	2004
 	Crisis: Behind a Presidential Commitment	1963	2011
 	The Crowd	1928	1989
@@ -120,7 +120,7 @@
 	The Cry of the Children	1912	2011
 *	A Cure for Pokeritis	1912	2011
 	The Curse of Quon Gwon	1916-1917	2006
-	Czechoslovakia 1968	1969	1997
+*	Czechoslovakia 1968	1969	1997
 	D.O.A.	1950	2004
 	Dance, Girl, Dance	1940	2007
 *	Dances with Wolves	1990	2007
@@ -300,7 +300,7 @@
 	The Incredible Shrinking Man	1957	2009
 	The Inner World of Aphasia	1968	2015
 *	Interior New York Subway, 14th Street to 42nd Street	1905	2017
-	Into the Arms of Strangers: Stories of the Kindertransport	2000	2014
+*	Into the Arms of Strangers: Stories of the Kindertransport	2000	2014
 	Intolerance	1916	1989
 	Invasion of the Body Snatchers	1956	1994
 	The Invisible Man	1933	2008
@@ -429,7 +429,7 @@
 	The Muppet Movie	1979	2009
 	The Music Box	1932	1997
 	The Music Man	1962	2005
-	Musketeers of Pig Alley	1912	2016
+*	Musketeers of Pig Alley	1912	2016
 	My Darling Clementine	1946	1991
 	My Man Godfrey	1936	1999
 	The Naked City	1948	2007
@@ -503,7 +503,7 @@
 	The Power and the Glory	1933	2014
 	The Power of the Press	1928	2005
 *	Powers of Ten	1978	1998
-	Precious Images	1986	2009
+*	Precious Images	1986	2009
 *	Preservation of the Sign Language	1913	2010
 *	President McKinley Inauguration Footage	1901	2000
 	Primary	1960	1990
@@ -762,7 +762,7 @@
 	George Washington Carver at Tuskegee Institute	1937	2019
 	Girlfriends	1978	2019
 	I Am Somebody	1970	2019
-	The Last Waltz	1978	2019
+*	The Last Waltz	1978	2019
 	My Name Is Oona	1969	2019
 	A New Leaf	1971	2019
 	Old Yeller	1957	2019
@@ -784,8 +784,8 @@
 	Freedom Riders	2010	2020
 	Grease	1978	2020
 	The Ground	1993-2001	2020
-	The Hurt Locker	2008	2020
-	Illusions	1982	2020
+*	The Hurt Locker	2008	2020
+*	Illusions	1982	2020
 	The Joy Luck Club	1993	2020
 	Kid Auto Races at Venice	1914	2020
 	Lilies of the Field	1963	2020
