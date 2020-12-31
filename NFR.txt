@@ -426,7 +426,7 @@
 	Mr. Smith Goes to Washington	1939	1989
 	Mrs. Miniver	1942	2009
 *	Multiple SIDosis	1970	2000
-	The Muppet Movie	1979	2009
+*	The Muppet Movie	1979	2009
 	The Music Box	1932	1997
 	The Music Man	1962	2005
 *	Musketeers of Pig Alley	1912	2016
