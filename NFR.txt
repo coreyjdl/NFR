@@ -456,7 +456,7 @@
 	Nothing But a Man	1964	1993
 	Notorious	1946	2006
 	Now, Voyager	1942	2007
-	The Nutty Professor	1963	2004
+*	The Nutty Professor	1963	2004
 *	OffOn	1968	2004
 	Oklahoma!	1955	2007
 	The Old Mill	1937	2015
