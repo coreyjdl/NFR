@@ -126,7 +126,7 @@
 *	Dances with Wolves	1990	2007
 	Daughter of Dawn	1920	2013
 	Daughter of Shanghai	1937	2006
-	Daughters of the Dust	1991	2004
+*	Daughters of the Dust	1991	2004
 	David Holzman's Diary	1968	1991
 *	The Day the Earth Stood Still	1951	1995
 	Days of Heaven	1978	2007
@@ -247,7 +247,7 @@
 	The Great Dictator	1940	1997
 *	The Great Train Robbery	1903	1990
 	Greed	1924	1991
-	Grey Gardens	1976	2010
+*	Grey Gardens	1976	2010
 *	Groundhog Day	1993	2006
 	Growing Up Female	1971	2011
 	Guess Who's Coming to Dinner	1967	2017
@@ -278,7 +278,7 @@
 	Hot Dogs for Gauguin	1972	2009
 	Hours for Jerome: Parts 1 and 2	1980-82	2012
 	The House I Live In	1945	2007
-	The House in the Middle	1954	2001
+*	The House in the Middle	1954	2001
 	House of Usher	1960	2005
 	House of Wax	1953	2014
 	How Green Was My Valley	1941	1990
