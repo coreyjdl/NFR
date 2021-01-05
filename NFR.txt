@@ -98,7 +98,7 @@
 	A Christmas Story	1983	2012
 	Chulas Fronteras	1976	1993
 	Cicero March	1966	2013
-	Citizen Kane	1941	1989
+*	Citizen Kane	1941	1989
 	The City	1939	1998
 	City Lights	1931	1991
 	Civilization	1916	1999
