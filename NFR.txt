@@ -9,7 +9,7 @@
 	Abbott and Costello Meet Frankenstein	1948	2001
 *	Ace in the Hole (aka Big Carnival)	1951	2017
 	Adam's Rib	1949	1992
-	The Adventures of Robin Hood	1938	1995
+*	The Adventures of Robin Hood	1938	1995
 	The African Queen	1951	1994
 *	Airplane!	1980	2010
 *	Alien	1979	2002
@@ -83,7 +83,7 @@
 	Broken Blossoms	1919	1996
 *	A Bronx Morning	1931	2004
 *	The Buffalo Creek Flood: An Act of Man	1975	2005
-	Bullitt	1968	2007
+*	Bullitt	1968	2007
 	Butch Cassidy and the Sundance Kid	1969	2003
 	Cabaret	1972	1995
 	The Cameraman	1928	2005
@@ -610,7 +610,7 @@
 	Stormy Weather	1943	2001
 	The Story of G.I. Joe	1945	2009
 *	The Story of Menstruation	1946	2015
-	Stranger Than Paradise	1984	2002
+*	Stranger Than Paradise	1984	2002
 	A Streetcar Named Desire	1951	1999
 	The Strong Man	1926	2007
 	A Study in Reds	1932	2009
@@ -654,7 +654,7 @@
 *	The Times of Harvey Milk	1984	2012
 *	Tin Toy	1988	2003
 *	Titanic	1997	2017
-	To Be or Not to Be	1942	1996
+*	To Be or Not to Be	1942	1996
 	To Fly!	1976	1995
 *	To Kill a Mockingbird	1962	1995
 *	To Sleep with Anger	1990	2017
