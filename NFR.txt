@@ -381,7 +381,7 @@
 *	The Magnificent Seven	1961	2013
 	Make Way for Tomorrow	1937	2010
 	The Making of an American	1920	2005
-	Malcolm X	1992	2010
+*	Malcolm X	1992	2010
 *	The Maltese Falcon	1941	1989
 	The Man Who Shot Liberty Valance	1962	2007
 	The Manchurian Candidate	1962	1994
@@ -436,7 +436,7 @@
 	The Naked Spur	1953	1997
 	Nanook of the North	1922	1989
 	Nashville	1975	1992
-*	National Lampoon�s Animal House	1978	2001
+*	National Lampoon's Animal House	1978	2001
 	National Velvet	1944	2003
 	Naughty Marietta	1935	2003
 	Navajo Film Themselves (Through Navajo Eyes)	1966	2002
