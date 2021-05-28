@@ -642,7 +642,7 @@
 	They Call It Pro Football	1966	2012
 	The Thief of Bagdad	1924	1996
 *	The Thin Blue Line	1988	2001
-	The Thin Man	1934	1997
+*	The Thin Man	1934	1997
 *	The Thing from Another World	1951	2001
 	Think of Me First as a Person	1960-1975	2006
 	This Is Cinerama	1952	2002
