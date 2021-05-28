@@ -228,7 +228,7 @@
 *	Gerald McBoing-Boing	1951	1995
 *	Gertie The Dinosaur	1914	1991
 *	Ghostbusters	1984	2015
-	Giant	1956	2005
+*	Giant	1956	2005
 	Gigi	1958	1991
 	Gilda	1946	2013
 *	Glimpse of the Garden	1957	2007
