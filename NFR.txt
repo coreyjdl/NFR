@@ -746,7 +746,7 @@
 	Pickup on South Street	1953	2018
 	Rebecca	1940	2018
 *	The Shining	1980	2018
-	Smoke Signals	1998	2018
+*	Smoke Signals	1998	2018
 *	Something Good -- Negro Kiss	1898	2018
 	Amadeus	1984	2019
 	Becky Sharp	1935	2019
