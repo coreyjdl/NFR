@@ -38,7 +38,7 @@
 	Baby Face	1933	2005
 *	Back to the Future	1985	2007
 	The Bad and the Beautiful	1952	2002
-	Badlands	1973	1993
+*	Badlands	1973	1993
 	Ball of Fire	1941	2016
 *	Bambi	1942	2011
 	The Band Wagon	1953	1995
@@ -327,7 +327,7 @@
 	Kidnapper's Foil	1930s	2012
 	Killer of Sheep	1977	1990
 	The Killers	1946	2008
-	King Kong	1933	1991
+*	King Kong	1933	1991
 	King of Jazz	1930	2013
 	King: A Filmed Record... Montgomery to Memphis	1970	1999
 *	The Kiss	1896	1999
