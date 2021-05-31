@@ -33,7 +33,7 @@
 	The Asphalt Jungle	1950	2008
 *	Atlantic City	1980	2003
 	The Atomic Cafe	1982	2016
-	The Augustas	1930s-1950s	2012
+	The Augustas	1930-1950	2012
 	The Awful Truth	1937	1996
 	Baby Face	1933	2005
 *	Back to the Future	1985	2007
@@ -216,7 +216,7 @@
 *	From Stump to Ship	1930	2002
 	From the Manger to the Cross	1912	1998
 	The Front Page	1931	2010
-	Fuentes Family Home Movies Collection	1920s and 1930s	2017
+	Fuentes Family Home Movies Collection	1920-1930	2017
 	Fuji	1974	2002
 	Funny Girl	1968	2016
 	Fury	1936	1995
@@ -276,7 +276,7 @@
 	Hospital	1970	1994
 	The Hospital	1971	1995
 	Hot Dogs for Gauguin	1972	2009
-	Hours for Jerome: Parts 1 and 2	1980-82	2012
+	Hours for Jerome: Parts 1 and 2	1980-1982	2012
 	The House I Live In	1945	2007
 *	The House in the Middle	1954	2001
 	House of Usher	1960	2005
@@ -324,7 +324,7 @@
 *	The Jungle	1967	2009
 	Kannapolis, N.C.	1941	2004
 	The Kid	1921	2011
-	Kidnapper's Foil	1930s	2012
+	Kidnapper's Foil	1930	2012
 	Killer of Sheep	1977	1990
 	The Killers	1946	2008
 *	King Kong	1933	1991
@@ -443,7 +443,7 @@
 *	The Negro Soldier	1944	2011
 *	Network	1976	2000
 *	Newark Athlete	1891	2010
-	Nicholas Brothers' Home Movies	1930s-'40s	2011
+	Nicholas Brothers' Home Movies	1930-1940	2011
 	A Night at the Opera	1935	1993
 	The Night of the Hunter	1955	1992
 *	Night of the Living Dead	1968	1999
@@ -533,7 +533,7 @@
 	Republic Steel Strike Riot Newsreel Footage	1937	1997
 	Return of the Secaucus 7	1980	1997
 	The Revenge of Pancho Villa	1930-1936	2009
-	Reverend Solomon Sir Jones films	1924-28	2016
+	Reverend Solomon Sir Jones films	1924-1928	2016
 	Ride the High Country	1962	1992
 *	The Right Stuff	1983	2013
 	Rio Bravo	1959	2014
@@ -711,7 +711,7 @@
 	The Wind	1928	1993
 	Wings	1927	1997
 	The Wishing Ring: an Idyll of Old England	1914	2012
-	With the Abraham Lincoln Brigade in Spain	1937-38	2017
+	With the Abraham Lincoln Brigade in Spain	1938	2017
 	Within Our Gates	1920	1992
 *	The Wizard of Oz	1939	1989
 	Woman of the Year	1942	1999
