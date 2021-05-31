@@ -95,7 +95,7 @@
 *	The Cheat	1915	1993
 	The Chechahcos	1924	2003
 *	Chinatown	1974	1991
-	A Christmas Story	1983	2012
+*	A Christmas Story	1983	2012
 	Chulas Fronteras	1976	1993
 	Cicero March	1966	2013
 *	Citizen Kane	1941	1989
