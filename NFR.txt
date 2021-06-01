@@ -618,7 +618,7 @@
 	Sullivan's Travels	1941	1990
 	Sunrise	1927	1989
 	Sunset Boulevard	1950	1989
-	Superman	1978	2017
+*	Superman	1978	2017
 	Suzanne, Suzanne	1982	2016
 	Sweet Smell of Success	1957	1993
 	Swing Time	1936	2004
