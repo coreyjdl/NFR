@@ -4,7 +4,7 @@
 *	12 Angry Men	1957	2007
 *	13 Lakes	2004	2014
 	20,000 Leagues Under the Sea	1916	2016
-	42nd Street	1933	1998	
+*	42nd Street	1933	1998	
 *	2001: A Space Odyssey	1968	1991
 	Abbott and Costello Meet Frankenstein	1948	2001
 *	Ace in the Hole (aka Big Carnival)	1951	2017
@@ -114,7 +114,7 @@
 *	Corbett-Fitzsimmons Title Fight	1897	2012
 *	A Corner in Wheat	1909	1994
 	The Court Jester	1956	2004
-	Crisis: Behind a Presidential Commitment	1963	2011
+*	Crisis: Behind a Presidential Commitment	1963	2011
 	The Crowd	1928	1989
 	Cry of Jazz	1959	2010
 	The Cry of the Children	1912	2011
@@ -781,7 +781,7 @@
 *	A Clockwork Orange	1971	2020
 *	The Dark Knight	2008	2020
 	The Devil Never Sleeps	1994	2020
-	Freedom Riders	2010	2020
+*	Freedom Riders	2010	2020
 	Grease	1978	2020
 	The Ground	1993-2001	2020
 *	The Hurt Locker	2008	2020
