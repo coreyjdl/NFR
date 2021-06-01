@@ -520,7 +520,7 @@
 *	Putney Swope	1969	2016
 *	Quasi at the Quackadero	1975	2009
 	The Quiet Man	1952	2013
-	Raging Bull	1980	1990
+*	Raging Bull	1980	1990
 *	Raiders of the Lost Ark	1981	1999
 	A Raisin in the Sun	1961	2005
 	Rear Window	1954	1997
