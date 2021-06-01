@@ -542,7 +542,7 @@
 	Road to Morocco	1942	1996
 *	Rocky	1976	2006
 *	The Rocky Horror Picture Show	1975	2005
-	Roger & Me	1989	2013
+*	Roger & Me	1989	2013
 	Roman Holiday	1953	1999
 	Rose Hobart	1936	2001
 *	Rosemary's Baby	1968	2014
