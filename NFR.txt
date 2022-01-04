@@ -812,7 +812,7 @@
 	Sounder	1972	2021
 	The Long Goodbye	1973	2021
 	Cooley High	1975	2021
-	Richard Pryor: Live in Concert	1979	2021
+*	Richard Pryor: Live in Concert	1979	2021
 	Chicana	1979	2021
 	The Wobblies	1979	2021
 *	Star Wars Episode VI — Return of the Jedi	1983	2021
