@@ -570,7 +570,7 @@
 	sex, lies, and videotape	1989	2006
 	Shadow of a Doubt	1943	1991
 	Shadows	1959	1993
-	Shaft	1971	2000
+*	Shaft	1971	2000
 	Shane	1953	1993
 *	The Shawshank Redemption	1994	2015
 	She Done Him Wrong	1933	1996
