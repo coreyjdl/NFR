@@ -571,7 +571,7 @@
 	Shadow of a Doubt	1943	1991
 	Shadows	1959	1993
 *	Shaft	1971	2000
-	Shane	1953	1993
+*	Shane	1953	1993
 *	The Shawshank Redemption	1994	2015
 	She Done Him Wrong	1933	1996
 	Sherlock, Jr.	1924	1991
