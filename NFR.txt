@@ -77,7 +77,7 @@
 	Brandy in the Wilderness	1969	2013
 	Breakfast at Tiffany;s	1961	2012
 *	The Breakfast Club	1985	2016
-	The Bride of Frankenstein	1935	1998
+*	The Bride of Frankenstein	1935	1998
 	The Bridge on the River Kwai	1957	1997
 *	Bringing Up Baby	1938	1990
 	Broken Blossoms	1919	1996
