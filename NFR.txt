@@ -179,7 +179,7 @@
 *	Eraserhead	1977	2004
 *	The Evidence of the Film	1913	2001
 	The Exiles	1961	2009
-	The Exorcist	1973	2010
+*	The Exorcist	1973	2010
 	The Exploits of Elaine	1914	1994
 	A Face in the Crowd	1957	2008
 	Faces	1968	2011
