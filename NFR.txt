@@ -807,7 +807,7 @@
 	What Ever Happened to Baby Jane?	1962	2021
 *	Evergreen	1965	2021
 *	Requiem-29	1970	2021
-	The Murder of Fred Hampton	1971	2021
+*	The Murder of Fred Hampton	1971	2021
 *	Pink Flamingos	1972	2021
 	Sounder	1972	2021
 	The Long Goodbye	1973	2021
