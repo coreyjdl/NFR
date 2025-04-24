@@ -142,7 +142,7 @@
 *	Die Hard	1988	2017
 *	Dirty Harry	1971	2012
 *	Disneyland Dream	1956	2008
-	Do the Right Thing	1989	1999
+*	Do the Right Thing	1989	1999
 	The Docks of New York	1928	1999
 	Dodsworth	1936	1990
 *	Dog Day Afternoon	1975	2009
@@ -167,7 +167,7 @@
 *	Easy Rider	1969	1998
 *	Eaux d'artifice	1953	1993
 *	Edison Kinetoscopic Record of a Sneeze	1894	2015
-	El Mariachi	1992	2011
+*	El Mariachi	1992	2011
 	El Norte	1983	1995
 *	Electronic Labyrinth: THX 1138 4EB	1967	2010
 	Ella Cinders	1926	2013
@@ -595,11 +595,11 @@
 	Sons of the Desert	1933	2012
 	The Sound of Music	1965	2001
 	So's Your Old Man	1926	2008
-	Spartacus	1960	2017
+*	Spartacus	1960	2017
 	The Spook Who Sat by the Door	1973	2012
 	St. Louis Blues	1929	2006
 	Stagecoach	1939	1995
-	Stand and Deliver	1988	2011
+*	Stand and Deliver	1988	2011
 	A Star Is Born	1954	2000
 *	Star Wars	1977	1989
 	Stark Love	1927	2009
@@ -639,7 +639,7 @@
 	Thelonius Monk: Straight, No Chaser	1988	2017
 *	Theodore Case Sound Test: Gus Visser and His Singing Duck	1925	2002
 	There It Is	1928	2004
-	They Call It Pro Football	1966	2012
+*	They Call It Pro Football	1966	2012
 	The Thief of Bagdad	1924	1996
 *	The Thin Blue Line	1988	2001
 *	The Thin Man	1934	1997
@@ -752,7 +752,7 @@
 	Becky Sharp	1935	2019
 	Before Stonewall	1984	2019
 	Body and Soul	1925	2019
-	Boys Don't Cry	1999	2019
+*	Boys Don't Cry	1999	2019
 *	Clerks	1994	2019
 	Coal Miner's Daughter	1980	2019
 *	Emigrants Landing at Ellis Island	1903	2019
@@ -771,7 +771,7 @@
 *	Purple Rain	1984	2019
 *	Real Women Have Curves	2002	2019
 	She's Gotta Have It	1986	2019
-	Sleeping Beauty	1959	2019
+*	Sleeping Beauty	1959	2019
 	Zoot Suit	1981	2019
 	The Battle of the Century	1927	2020
 *	The Blues Brothers	1980	2020
@@ -848,3 +848,53 @@
 	House Party	1990	2022
 *	Iron Man	2008	2022
 	Pariah	2011	2022
+	American Me	1992	2024	
+	Angels with Dirty Faces	1938	2024	
+	Annabelle Serpentine Dance	1895	2024	
+*	Beverly Hills Cop	1984	2024	
+	Chelsea Girls	1966	2024	
+	Common Threads: Stories from the Quilt	1989	2024	
+	Compensation	1999	2024	
+	Dirty Dancing	1987	2024	
+	Ganja & Hess	1973	2024	
+	Invaders from Mars	1953	2024	
+	Koko's Earth Control	1928	2024	
+	The Miracle Worker	1962	2024	
+	My Family	1995	2024	
+	My Own Private Idaho		1991	2024	
+*	No Country for Old Men	2007	2024	
+	Powwow Highway	1989	2024	
+	The Pride of the Yankees	1942	2024	
+*	The Social Network	2010	2024	
+*	Spy Kids	2001	2024	
+*	Star Trek II: The Wrath of Khan	1982	2024	
+*	The Texas Chain Saw Massacre	1974	2024	
+*	Up in Smoke	1978	2024	
+	Uptown Saturday Night	1974	2024	
+	Will	1981	2024	
+	Zora Lathan student films	1975–1976	2024	
+* 	12 Years a Slave	2013	2023	
+	20 Feet from Stardom	2013	2023	
+	Alambrista!	1977	2023	
+*	Apollo 13	1995	2023	
+	Bamboozled	2000	2023	
+	Bohulano Family Film Collection	1950s–1970s	2023	
+	Cruisin' J-Town	1975	2023	
+	Desperately Seeking Susan	1985	2023	
+	Dinner at Eight	1933	2023	
+	Edge of the City	1957	2023	
+	Fame	1980	2023	
+	Helen Keller in Her Story	1954	2023	
+*	Home Alone	1990	2023	
+*	Lady and the Tramp	1955	2023	
+	The Lighted Field	1987	2023	
+	Love & Basketball	2000	2023	
+	Matewan	1987	2023	
+	Maya Lin: A Strong Clear Vision	1994	2023	
+	A Movie Trip Through Filmland	1921	2023	
+*	The Nightmare Before Christmas	1993	2023	
+	Passing Through	1977	2023	
+	Queen of Diamonds	1991	2023	
+*	Terminator 2: Judgment Day	1991	2023	
+	The Wedding Banquet	1993	2023	
+	We're Alive	1974	2023	
