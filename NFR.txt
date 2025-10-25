@@ -161,7 +161,7 @@
 *	Duck Soup	1933	1990
 *	Dumbo	1941	2017
 *	E.T. The Extra-Terrestrial	1982	1994
-	Eadweard Muybridge, Zoopraxographer	1974	2015
+*	Eadweard Muybridge, Zoopraxographer	1974	2015
 *	Early Abstractions	1939-1956	2006
 *	East of Eden	1955	2016
 *	Easy Rider	1969	1998
