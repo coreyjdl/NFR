@@ -461,7 +461,7 @@
 	Oklahoma!	1955	2007
 	The Old Mill	1937	2015
 	On the Bowery	1957	2008
-	On the Waterfront	1954	1989
+*	On the Waterfront	1954	1989
 	Once Upon a Time in the West	1968	2009
 *	One Flew Over the Cuckoo's Nest	1975	1993
 	One Froggy Evening	1956	2003
