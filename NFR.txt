@@ -827,7 +827,7 @@
 	Cab Calloway Home Movies	1948-1951	2022
 	Cyrano de Bergerac	1950	2022
 	Charade	1963	2022       
-	Scorpio Rising	1963	2022
+*	Scorpio Rising	1963	2022
 	Behind Every Good Man	1967	2022
 	Titicut Follies	1967	2022
 	Mingus	1968	2022
@@ -898,3 +898,4 @@
 *	Terminator 2: Judgment Day	1991	2023	
 	The Wedding Banquet	1993	2023	
 	We're Alive	1974	2023	
+
