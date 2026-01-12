@@ -27,7 +27,7 @@
 	Anatomy of a Murder	1959	2012
 *	Annie Hall	1977	1992
 	Antonia: A Portrait of the Woman	1974	2003
-	The Apartment	1960	1994
+*	The Apartment	1960	1994
 *	Apocalypse Now	1979	2000
 	Applause	1929	2006
 	The Asphalt Jungle	1950	2008
@@ -898,5 +898,6 @@
 *	Terminator 2: Judgment Day	1991	2023	
 	The Wedding Banquet	1993	2023	
 	We're Alive	1974	2023	
+
 
 
