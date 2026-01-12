@@ -384,7 +384,7 @@
 *	Malcolm X	1992	2010
 *	The Maltese Falcon	1941	1989
 	The Man Who Shot Liberty Valance	1962	2007
-	The Manchurian Candidate	1962	1994
+*	The Manchurian Candidate	1962	1994
 	Manhatta	1921	1995
 	Manhattan	1979	2001
 	The March	1964	2008
@@ -898,4 +898,5 @@
 *	Terminator 2: Judgment Day	1991	2023	
 	The Wedding Banquet	1993	2023	
 	We're Alive	1974	2023	
+
 
