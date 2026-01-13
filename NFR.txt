@@ -96,7 +96,7 @@
 	The Chechahcos	1924	2003
 *	Chinatown	1974	1991
 *	A Christmas Story	1983	2012
-	Chulas Fronteras	1976	1993
+*	Chulas Fronteras	1976	1993
 	Cicero March	1966	2013
 *	Citizen Kane	1941	1989
 	The City	1939	1998
@@ -898,6 +898,7 @@
 *	Terminator 2: Judgment Day	1991	2023	
 	The Wedding Banquet	1993	2023	
 	We're Alive	1974	2023	
+
 
 
 
