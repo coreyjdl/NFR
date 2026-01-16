@@ -183,7 +183,7 @@
 	The Exploits of Elaine	1914	1994
 	A Face in the Crowd	1957	2008
 	Faces	1968	2011
-	Fake Fruit Factory	1986	2011
+*	Fake Fruit Factory	1986	2011
 	The Fall of the House of Usher	1928	2000
 *	Fantasia	1940	1990
 *	Fargo	1996	2006
@@ -898,6 +898,7 @@
 *	Terminator 2: Judgment Day	1991	2023	
 	The Wedding Banquet	1993	2023	
 	We're Alive	1974	2023	
+
 
 
 
