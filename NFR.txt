@@ -757,7 +757,7 @@
 	Coal Miner's Daughter	1980	2019
 *	Emigrants Landing at Ellis Island	1903	2019
 	Employees Entrance	1933	2019
-	Fog of War	2003	2019
+*	Fog of War	2003	2019
 	Gaslight	1944	2019
 	George Washington Carver at Tuskegee Institute	1937	2019
 	Girlfriends	1978	2019
