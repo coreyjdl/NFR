@@ -555,7 +555,7 @@
 	Salt of the Earth	1954	1992
 	Samsara: Death and Rebirth in Cambodia	1990	2012
 *	San Francisco Earthquake and Fire, April 18, 1906	1906	2005
-	Saturday Night Fever	1977	2010
+*	Saturday Night Fever	1977	2010
 *	Saving Private Ryan	1998	2014
 *	Scarface	1932	1994
 *	Schindler's List	1993	2004
