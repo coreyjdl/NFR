@@ -445,7 +445,7 @@
 *	Newark Athlete	1891	2010
 	Nicholas Brothers' Home Movies	1930-1940	2011
 	A Night at the Opera	1935	1993
-	The Night of the Hunter	1955	1992
+*	The Night of the Hunter	1955	1992
 *	Night of the Living Dead	1968	1999
 	Ninotchka	1939	1990
 	No Lies	1973	2008
